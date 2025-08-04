@@ -10,7 +10,7 @@ export default function Home() {
 
       <main className="flex-1 flex flex-col items-center justify-center text-center p-4">
         <h1 className="text-5xl md:text-7xl font-bold bg-clip-text text-transparent bg-gradient-to-b from-neutral-800 to-neutral-500 dark:from-neutral-200 dark:to-neutral-500 py-4">
-          Crie Apps em Minutos
+          Crie Apps Sinistros
         </h1>
         <p className="mt-4 text-lg md:text-xl text-neutral-600 dark:text-neutral-400 max-w-2xl">
           Use o poder da IA e dos melhores componentes de UI para dar vida às
